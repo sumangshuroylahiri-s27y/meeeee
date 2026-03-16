@@ -1,0 +1,11 @@
+{
+  "name": "sumansu-roy-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx -y serve . -p 3000",
+    "build": "echo 'No build step required for static site. Deploy the root directory.'",
+    "start": "npx -y serve . -p 3000"
+  },
+  "dependencies": {}
+}
